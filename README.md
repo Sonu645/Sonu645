@@ -2,7 +2,7 @@
 - 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning Andriod App Development in java and Kotlin
 - 💞️ I’m looking to collaborate on App Development
-- 📫 How to reach me email me
+- 📫 How to reach me email me(sonukumarbgs197@gmail.com)
 
 <!---
 Sonu645/Sonu645 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
